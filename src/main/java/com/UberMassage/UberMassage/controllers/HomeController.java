@@ -1,4 +1,4 @@
-package com.UberMassage.UberMassage.Controllers;
+package com.UberMassage.UberMassage.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
